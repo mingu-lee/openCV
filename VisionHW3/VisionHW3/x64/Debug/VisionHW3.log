@@ -1,2 +1,1 @@
-﻿  소스.cpp
-  VisionHW3.vcxproj -> C:\Users\lee\Documents\Visual Studio 2017\Projects\VisionHW3\x64\Debug\VisionHW3.exe
+﻿C:\Users\lee\Desktop\opencv\VisionHW3\VisionHW3\VisionHW3.vcxproj(68,5): error MSB4019: 가져온 "C:\Users\lee\Desktop\opencv\cv440 property\PropertySheet.props" 프로젝트를 찾을 수 없습니다. <Import> 선언에 지정한 경로가 올바른지 그리고 파일이 디스크에 있는지 확인하세요.
